@@ -33,20 +33,6 @@ An AI-powered Weather Application that provides real-time weather information al
 - Claude 3.5 Sonnet – Tool-calling model  
 
 
-📁 Project Structure
-WeatherAI-Chat/
-├── backend/
-│   ├── main.py          # FastAPI + LangChain agent
-│   ├── requirements.txt # Dependencies
-│   └── .env             # API keys (gitignore)
-└── frontend/
-    ├── src/
-    │   ├── App.js       # React chat UI
-    │   └── App.css      # Modern chat styling
-    └── package.json     # React dependencies
-├── .gitignore           # Protects secrets
-└── README.md
-
 
 
 
