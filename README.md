@@ -1,6 +1,6 @@
 🌤️ WeatherAI Chat Application
 
-An AI-powered Weather Application that provides real-time weather information along with a chat-based interface for user-friendly interaction. The application integrates weather data APIs with an intelligent assistant to answer weather-related queries in a simple and conversational manner.
+An AI-powered Weather Application that provides real-time weather information along with a chat-based interface for user-friendly interacktion. The application integrates weather data APIs with an intelligent assistant to answer weather-related queries in a simple and conversational manner.
 
 ✨ Features
 🎯 Natural language processing - "weather in pune", "is it raining in delhi?"
